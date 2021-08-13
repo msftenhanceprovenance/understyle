@@ -7,6 +7,10 @@
     "prepublish": "mkdir -p dist && babel src --out-dir dist",
     "test": "ava -v"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jxnblk/understyle.git"
+  },
   "keywords": [
     "style",
     "css",
